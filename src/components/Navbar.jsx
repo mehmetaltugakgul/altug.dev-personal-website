@@ -1,14 +1,13 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
 import { useScrollPosition } from "../hooks/useScrollPosition";
 import useResizeObserver from "../hooks/useResizeObserver";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
-import { mainBody, repos, about, skills,experiences } from "../editable-stuff/config.js";
+import {repos, about, skills,experiences } from "../editable-stuff/config.js";
 
 function LogoSite() {
   return (
-    <img className="sitelogo" src="./imzaa1.png" style={{width:'70px'}} />
+    <img className="sitelogo" src="./imzaa1.png" alt="Logo" style={{width:'70px'}} />
   );
 }
 

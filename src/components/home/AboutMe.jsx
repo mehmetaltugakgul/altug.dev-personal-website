@@ -15,7 +15,7 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
     } else {
       setProfilePicUrl(link);
     }
-  }, [link]);
+  }, [handleRequest, link]);
 
   const handleRequest = async () => {
     const instaLink = "https://www.instagram.com/";
