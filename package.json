@@ -2,6 +2,7 @@
   "name": "altug.dev-personal-website",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "version": "2.0.0",
+  "homepage": "https://mehmetaltugakgul.github.io/altug.dev-personal-website/",
   "private": "true",
   "author": {
     "name": "Mehmet Altuğ Akgül",
