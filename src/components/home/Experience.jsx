@@ -1,5 +1,6 @@
 import React from 'react';
 import ExperienceCard from "./ExperienceCard";
+import Jumbotron from 'react-bootstrap/Jumbotron';
 import {
     Container,
     Row,
