@@ -3,8 +3,7 @@ import Tab from "react-bootstrap/Tab";
 import Tabs from "react-bootstrap/Tabs";
 import SkillsTab from "./SkillsTab";
 import Row from "react-bootstrap/Row";
-import  Container from "react-bootstrap/Container";
-import  Jumbotron from 'reactstrap/Jumbotron';
+import { Jumbotron, Container } from "react-bootstrap";
 import { useScrollPosition } from "../../hooks/useScrollPosition";
 
 function Skills({ heading, hardSkills, softSkills }) {
