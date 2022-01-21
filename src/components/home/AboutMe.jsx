@@ -1,5 +1,4 @@
 import React from "react";
-import Jumbotron from 'react-bootstrap/Jumbotron';
 import axios from "axios";
 
 const pictureLinkRegex = new RegExp(

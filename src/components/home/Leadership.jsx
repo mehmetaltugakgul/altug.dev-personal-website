@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Profiler } from "react";
 import Carousel from "react-bootstrap/Carousel";
-import Jumbotron from 'react-bootstrap/Jumbotron';
+
 
 const Leadership = ({ heading, message, img, imageSize }) => {
   return (
