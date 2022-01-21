@@ -15,8 +15,10 @@ const AboutMe = ({ heading, message, link, imgSize, resume }) => {
     } else {
       setProfilePicUrl(link);
     }
+  // eslint-disable-next-line no-use-before-define
   }, [handleRequest, link]);
 
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const handleRequest = async () => {
     const instaLink = "https://www.instagram.com/";
     const instaQuery = "/?__a=1";
