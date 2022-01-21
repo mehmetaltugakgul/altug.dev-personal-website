@@ -1,7 +1,7 @@
 import React from "react";
 import Typist from "react-typist";
 import Container from "react-bootstrap/Container";
-import Jumbotron from 'react-bootstrap';
+import Jumbotron from "react-bootstrap/Jumbotron";
 
 
 const MainBody = React.forwardRef(

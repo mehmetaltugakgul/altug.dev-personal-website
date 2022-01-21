@@ -2,9 +2,10 @@ import React from 'react';
 import ExperienceCard from "./ExperienceCard";
 import {
     Container,
-    Row,
-    Jumbotron
+    Row
+    
 } from "react-bootstrap";
+import Jumbotron from "react-bootstrap/Jumbotron";
 
 const Experience = ({experiences}) => {
     return (  
