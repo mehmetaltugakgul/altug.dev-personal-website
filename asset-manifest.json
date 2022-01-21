@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.6055dea8.chunk.css",
-    "main.js": "/static/js/main.ddf59bf3.chunk.js",
-    "main.js.map": "/static/js/main.ddf59bf3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.be8bb7cf.js",
-    "runtime-main.js.map": "/static/js/runtime-main.be8bb7cf.js.map",
-    "static/js/2.8363ed28.chunk.js": "/static/js/2.8363ed28.chunk.js",
-    "static/js/2.8363ed28.chunk.js.map": "/static/js/2.8363ed28.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cecca247082510cccf8c1683529667da.js": "/precache-manifest.cecca247082510cccf8c1683529667da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6055dea8.chunk.css.map": "/static/css/main.6055dea8.chunk.css.map",
-    "static/js/2.8363ed28.chunk.js.LICENSE.txt": "/static/js/2.8363ed28.chunk.js.LICENSE.txt",
-    "static/media/1.jpg": "/static/media/1.b7ac566c.jpg",
-    "static/media/Resim1.png": "/static/media/Resim1.fed4eeae.png",
-    "static/media/fokusAkademiCalisma-e1512823236190.png": "/static/media/fokusAkademiCalisma-e1512823236190.69335a21.png",
-    "static/media/logo pg.png": "/static/media/logo pg.2b74e838.png",
-    "static/media/vatozlogo.png": "/static/media/vatozlogo.6522a9da.png"
+    "main.css": "/altug.dev-personal-website/static/css/main.6055dea8.chunk.css",
+    "main.js": "/altug.dev-personal-website/static/js/main.e5dc9cd0.chunk.js",
+    "main.js.map": "/altug.dev-personal-website/static/js/main.e5dc9cd0.chunk.js.map",
+    "runtime-main.js": "/altug.dev-personal-website/static/js/runtime-main.e4fcb07b.js",
+    "runtime-main.js.map": "/altug.dev-personal-website/static/js/runtime-main.e4fcb07b.js.map",
+    "static/js/2.8363ed28.chunk.js": "/altug.dev-personal-website/static/js/2.8363ed28.chunk.js",
+    "static/js/2.8363ed28.chunk.js.map": "/altug.dev-personal-website/static/js/2.8363ed28.chunk.js.map",
+    "index.html": "/altug.dev-personal-website/index.html",
+    "precache-manifest.bdd979da1a347f604eace122e660fac9.js": "/altug.dev-personal-website/precache-manifest.bdd979da1a347f604eace122e660fac9.js",
+    "service-worker.js": "/altug.dev-personal-website/service-worker.js",
+    "static/css/main.6055dea8.chunk.css.map": "/altug.dev-personal-website/static/css/main.6055dea8.chunk.css.map",
+    "static/js/2.8363ed28.chunk.js.LICENSE.txt": "/altug.dev-personal-website/static/js/2.8363ed28.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/altug.dev-personal-website/static/media/1.b7ac566c.jpg",
+    "static/media/Resim1.png": "/altug.dev-personal-website/static/media/Resim1.fed4eeae.png",
+    "static/media/fokusAkademiCalisma-e1512823236190.png": "/altug.dev-personal-website/static/media/fokusAkademiCalisma-e1512823236190.69335a21.png",
+    "static/media/logo pg.png": "/altug.dev-personal-website/static/media/logo pg.2b74e838.png",
+    "static/media/vatozlogo.png": "/altug.dev-personal-website/static/media/vatozlogo.6522a9da.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.be8bb7cf.js",
+    "static/js/runtime-main.e4fcb07b.js",
     "static/js/2.8363ed28.chunk.js",
     "static/css/main.6055dea8.chunk.css",
-    "static/js/main.ddf59bf3.chunk.js"
+    "static/js/main.e5dc9cd0.chunk.js"
   ]
 }
