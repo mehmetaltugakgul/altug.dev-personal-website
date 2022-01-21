@@ -4,8 +4,8 @@ import {
     Container,
     Row
     
-} from "react-bootstrap";
-import Jumbotron from "react-bootstrap/Jumbotron";
+} from "reactstrap";
+import { Jumbotron } from "reactstrap/Jumbotron";
 
 const Experience = ({experiences}) => {
     return (  

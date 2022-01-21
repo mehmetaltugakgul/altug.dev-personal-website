@@ -3,7 +3,7 @@ import React from 'react';
 import { 
     Col,
     Card
- } from "react-bootstrap";
+ } from "reactstrap";
 const ExperienceCard = ({data}) => {
     return ( 
         <Col lg="6">
