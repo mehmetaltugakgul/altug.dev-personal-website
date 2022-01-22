@@ -48,7 +48,7 @@ const Greeter: React.FC<GreeterProps> = ({
       <SEO title={hello} />
       <section className={classes.root}>
         <h1 className={classes.heading}>{staticData.mainLine}</h1>
-        <div className={classes.typedWrap} style={{ width: '70%',textAlign: 'center' }}>
+        <div className={classes.typedWrap} style={{ width: '90%',textAlign: 'center' }}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
         <text>
