@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Telegram",
+    "url": "https://t.me/mehmetaltugakgul",
+    "icon": ["fab", "telegram-plane"],
+    "isMain": false
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/mehmetaltugakgul",
+    "icon": ["fab", "github"],
+    "isMain": false
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab.com/mehmetaltugakgul",
+    "icon": ["fab", "gitlab"],
+    "isMain": false
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com/in/mehmetaltugakgul",
+    "icon": ["fab", "linkedin"],
+    "isMain": true
+  },
+  {
+    "name": "Instagram",
+    "url": "https://www.instagram.com/mehmetaltugakgul/",
+    "icon": ["fab", "instagram"],
+    "isMain": false
+  },
+  {
+    "name": "goodreads",
+    "url": "https://www.goodreads.com/mehmetaltugakgul",
+    "icon": ["fab", "goodreads"],
+    "isMain": false
+  }
+]
