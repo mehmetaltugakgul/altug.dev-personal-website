@@ -48,7 +48,7 @@ const Greeter: React.FC<GreeterProps> = ({
       <SEO title={hello} />
       <section className={classes.root}>
         <h1 className={classes.heading}>{staticData.mainLine}</h1>
-        <div className={classes.typedWrap} style={{ width: '70%' }>
+        <div className={classes.typedWrap} style={{ width: '70%' }}>
           <span id="typed-insert-point" style={{ whiteSpace: 'pre' }} />
         </div>
         <text>
@@ -58,7 +58,7 @@ const Greeter: React.FC<GreeterProps> = ({
         </text>
         <h4
           className={classes.typedWrap}
-          style={{ textAlign: 'center', fontSize: '15px', width: '50%' }}
+          style={{ textAlign: 'center', fontSize: '15px', width: '65%' }}
         >
           I'm an Electrical electronics / software engineer. I was born in 1995
           in Ankara. Graduated from Master of Business Administrations. I
