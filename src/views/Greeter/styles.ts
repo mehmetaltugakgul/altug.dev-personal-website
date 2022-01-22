@@ -9,7 +9,6 @@ import {
   textDark,
   midBlue,
   mllSize,
-  lSize,
   breakpoints,
   mlSize,
   sansFont,
