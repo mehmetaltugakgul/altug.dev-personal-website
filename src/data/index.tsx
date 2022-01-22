@@ -1,15 +1,11 @@
 import React from 'react';
 import Greeter from '../views/Greeter';
-import Diploma from '../views/Diploma';
 import { PageLink, TabLink } from '../models';
 import { jsOrange, midBlue, green, pink } from '../theme/colors';
 
 import staticData from './json/static.json';
 import contactData from './json/contact.json';
-import baData from './json/ba.json';
 import pkg from '../../package.json';
-
-import { calculateDiplomaProgress } from '../utils';
 
 export const pages: PageLink[] = [
   {
