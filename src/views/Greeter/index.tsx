@@ -60,7 +60,7 @@ const Greeter: React.FC<GreeterProps> = ({
           className={classes.typedWrap}
           style={{ textAlign: 'center', fontSize: '15px', width: '65%' }}
         >
-          I'm an Electrical electronics / software engineer. I was born in 1995
+          I'm an Electrical - Electronics / Software Engineer. I was born in 1995
           in Ankara. Graduated from Master of Business Administrations. I
           continue Management Information Systems as the second university. I
           work as a Software Engineer in the Product Strategy department of
