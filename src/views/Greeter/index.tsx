@@ -61,7 +61,7 @@ const Greeter: React.FC<GreeterProps> = ({
           style={{ textAlign: 'center', fontSize: '15px', width: '65%' }}
         >
           I'm an Electrical - Electronics / Software Engineer. I was born in 1995
-          in Ankara. Graduated from Master of Business Administrations. I
+          in Ankara. Graduated from Master of Business Administration. I
           continue Management Information Systems as the second university. I
           work as a Software Engineer in the Product Strategy department of
           Papilon Savunma. I'm interested in art, plays the baglama and the oud.
